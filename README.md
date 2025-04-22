@@ -1,8 +1,5 @@
-# EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection
-
-## Project Overview
-
-**EilMoB** is a model for multi-modal sarcasm detection that combines text and visual information. It enhances sarcasm detection accuracy by using an emotion-aware incongruity learning mechanism and a modality bridging network. This model effectively bridges the gap between text and images, improving detection performance.
+## EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection
+This repository contains the code for the paper titled **EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection**.
 
 ## Installation
 
@@ -16,7 +13,7 @@ pip install -r requirements.txt
 
 ### Dataset
 
-This project uses the **MMSD & MMSD2.0** dataset for training and testing.
+This project uses the **MMSD** and **MMSD2.0** dataset for training and testing.
 
 ### Training the Model
 
