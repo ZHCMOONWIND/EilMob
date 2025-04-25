@@ -27,13 +27,13 @@ python main.py
 
 If you use this model in your work, please cite our paper:
 
-```
-@article{your_paper_2025,
-  title={EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection},
-  author={Your Name and Co-authors},
-  journal={Journal of Artificial Intelligence},
-  year={2025}
-}
-```
+%%```
+%%@article{your_paper_2025,
+%%  title={EilMoB: Emotion-aware Incongruity Learning and Modality Bridging Network for Multi-modal Sarcasm Detection},
+%%  author={Your Name and Co-authors},
+%%  journal={Journal of Artificial Intelligence},
+%%  year={2025}
+%%}
+%%```
 
 Let me know if you need further adjustments!
